@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/arrow-down-circle.svg</file>
+        <file>icons/arrow-up-circle.svg</file>
+        <file>icons/book-open.svg</file>
+        <file>icons/plus-circle.svg</file>
+    </qresource>
+</RCC>
